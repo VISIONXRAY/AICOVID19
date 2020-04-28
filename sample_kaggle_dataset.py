@@ -1,5 +1,9 @@
-# USAGE
-# python sample_kaggle_dataset.py --kaggle chest_xray --output dataset/normal
+# SMART XRAY COVID19 MOBILE TEST
+# Diagnosing COVID19 from XRAYS with AI with high accuracy and instantly
+# Directly from a mobile device with X-Ray capability.
+# Command line:
+# python build_covid_dataset.py --covid covid-chestxray-dataset --output dataset/covid
+
 
 # import the necessary packages
 from imutils import paths
